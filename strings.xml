@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WinnerActivity</string>
+    <string name="scoreA">0</string>
+    <string name="scoreB">0</string>
+    <string name="clear_scores">Clear Scores</string>
+    <string name="team_b">Team B</string>
+    <string name="inc_scoreA">Increase Team A</string>
+    <string name="inc_scoreB">Increase Team B</string>
+    <string name="reset">Reset score</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+</resources>
